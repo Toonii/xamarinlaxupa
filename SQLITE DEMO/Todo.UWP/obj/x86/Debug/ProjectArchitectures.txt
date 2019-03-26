@@ -1,0 +1,1 @@
+G:\S2AM\APPS\SQLITE DEMO\Todo.UWP\Todo.UWP.csproj;x86
